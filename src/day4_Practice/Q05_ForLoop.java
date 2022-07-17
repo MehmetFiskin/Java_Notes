@@ -1,4 +1,4 @@
-package day4_practice;
+package day4_Practice;
 
 public class Q05_ForLoop {
     public static void main(String[] args) {
