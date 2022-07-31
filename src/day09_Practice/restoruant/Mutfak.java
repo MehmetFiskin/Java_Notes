@@ -20,7 +20,7 @@ public class Mutfak {
     }
 
     public Mutfak() {
-        this("adanakebab","mercimek","kunefe","salgam");
+
     }
 
     @Override
